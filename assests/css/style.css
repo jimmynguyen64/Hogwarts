@@ -1,0 +1,26 @@
+.jumbotron{
+    background-image: url("../images/platform.jpeg");
+    background-size: 100% 100%;
+    background-position: center;
+    height: 200px;
+}
+
+.card-header{
+    background-color: darkred;
+    color: gold;
+    font-size: 25px;
+    text-align: center;
+}
+
+.form-group{
+    font-weight: bold;
+}
+
+.container{
+    background-color: #ffc107;
+}
+
+body{
+    background-color: #821c1c;
+
+}
